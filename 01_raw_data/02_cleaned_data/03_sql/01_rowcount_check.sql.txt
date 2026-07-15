@@ -1,0 +1,6 @@
+SELECT 
+  MIN(report_date) AS earliest_month,
+  MAX(report_date) AS latest_month,
+  COUNT(*) AS total_rows
+FROM `kenya-inflation.kenya_inflation.cpi_monthly`;
+
