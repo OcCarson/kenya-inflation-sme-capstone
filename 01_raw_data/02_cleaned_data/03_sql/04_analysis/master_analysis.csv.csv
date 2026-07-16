@@ -1,0 +1,378 @@
+report_date,overall_cpi,yoy_inflation,core_inflation,non_core_inflation,division_name,weight,division_mom,division_yoy
+2024-01-01,138.15,6.9,4.8,13.1,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.8,8.3
+2024-01-01,138.15,6.9,4.8,13.1,Clothing and Footwear,2.9914,0.6,3.5
+2024-01-01,138.15,6.9,4.8,13.1,Education Services,5.562,1.8,2.8
+2024-01-01,138.15,6.9,4.8,13.1,Food and Non-Alcoholic Beverages,32.9094,0.4,7.9
+2024-01-01,138.15,6.9,4.8,13.1,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.7,4.0
+2024-01-01,138.15,6.9,4.8,13.1,Health,2.9116,0.1,2.4
+2024-01-01,138.15,6.9,4.8,13.1,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,1.6,9.7
+2024-01-01,138.15,6.9,4.8,13.1,Information and Communication,7.784,0.2,1.3
+2024-01-01,138.15,6.9,4.8,13.1,Insurance and Financial Services,2.2423,0.3,1.0
+2024-01-01,138.15,6.9,4.8,13.1,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,6.1
+2024-01-01,138.15,6.9,4.8,13.1,"Recreation, Sport and Culture",1.7219,1.3,5.4
+2024-01-01,138.15,6.9,4.8,13.1,Restaurants and Accommodation Services,8.0991,0.6,4.3
+2024-01-01,138.15,6.9,4.8,13.1,Transport,9.6468,-0.9,10.6
+2024-02-01,138.34,6.3,5.1,9.9,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,1.1,8.7
+2024-02-01,138.34,6.3,5.1,9.9,Clothing and Footwear,2.9914,0.1,3.5
+2024-02-01,138.34,6.3,5.1,9.9,Education Services,5.562,0.0,2.4
+2024-02-01,138.34,6.3,5.1,9.9,Food and Non-Alcoholic Beverages,32.9094,0.3,6.9
+2024-02-01,138.34,6.3,5.1,9.9,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.3,4.0
+2024-02-01,138.34,6.3,5.1,9.9,Health,2.9116,0.3,2.6
+2024-02-01,138.34,6.3,5.1,9.9,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.8,8.4
+2024-02-01,138.34,6.3,5.1,9.9,Information and Communication,7.784,0.1,1.3
+2024-02-01,138.34,6.3,5.1,9.9,Insurance and Financial Services,2.2423,0.0,1.0
+2024-02-01,138.34,6.3,5.1,9.9,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.6,6.1
+2024-02-01,138.34,6.3,5.1,9.9,"Recreation, Sport and Culture",1.7219,0.3,5.0
+2024-02-01,138.34,6.3,5.1,9.9,Restaurants and Accommodation Services,8.0991,0.3,4.3
+2024-02-01,138.34,6.3,5.1,9.9,Transport,9.6468,0.2,10.8
+2024-03-01,138.66,5.7,4.8,8.7,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.4,8.5
+2024-03-01,138.66,5.7,4.8,8.7,Clothing and Footwear,2.9914,0.2,3.7
+2024-03-01,138.66,5.7,4.8,8.7,Education Services,5.562,0.0,2.3
+2024-03-01,138.66,5.7,4.8,8.7,Food and Non-Alcoholic Beverages,32.9094,0.5,5.8
+2024-03-01,138.66,5.7,4.8,8.7,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.4,4.3
+2024-03-01,138.66,5.7,4.8,8.7,Health,2.9116,0.3,2.6
+2024-03-01,138.66,5.7,4.8,8.7,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.2,8.0
+2024-03-01,138.66,5.7,4.8,8.7,Information and Communication,7.784,0.0,1.3
+2024-03-01,138.66,5.7,4.8,8.7,Insurance and Financial Services,2.2423,0.0,0.9
+2024-03-01,138.66,5.7,4.8,8.7,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,6.1
+2024-03-01,138.66,5.7,4.8,8.7,"Recreation, Sport and Culture",1.7219,0.1,4.8
+2024-03-01,138.66,5.7,4.8,8.7,Restaurants and Accommodation Services,8.0991,0.3,4.5
+2024-03-01,138.66,5.7,4.8,8.7,Transport,9.6468,-0.6,9.7
+2024-04-01,138.4,5.0,4.3,7.3,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,8.3
+2024-04-01,138.4,5.0,4.3,7.3,Clothing and Footwear,2.9914,0.2,3.7
+2024-04-01,138.4,5.0,4.3,7.3,Education Services,5.562,0.0,2.3
+2024-04-01,138.4,5.0,4.3,7.3,Food and Non-Alcoholic Beverages,32.9094,-0.1,5.6
+2024-04-01,138.4,5.0,4.3,7.3,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.1,4.4
+2024-04-01,138.4,5.0,4.3,7.3,Health,2.9116,0.1,2.7
+2024-04-01,138.4,5.0,4.3,7.3,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-1.3,3.8
+2024-04-01,138.4,5.0,4.3,7.3,Information and Communication,7.784,0.1,1.3
+2024-04-01,138.4,5.0,4.3,7.3,Insurance and Financial Services,2.2423,0.0,0.9
+2024-04-01,138.4,5.0,4.3,7.3,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,6.0
+2024-04-01,138.4,5.0,4.3,7.3,"Recreation, Sport and Culture",1.7219,0.2,4.8
+2024-04-01,138.4,5.0,4.3,7.3,Restaurants and Accommodation Services,8.0991,0.2,4.3
+2024-04-01,138.4,5.0,4.3,7.3,Transport,9.6468,-0.3,9.2
+2024-05-01,139.64,5.0,3.4,9.6,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.6,8.0
+2024-05-01,139.64,5.0,3.4,9.6,Clothing and Footwear,2.9914,0.3,3.8
+2024-05-01,139.64,5.0,3.4,9.6,Education Services,5.562,0.0,2.3
+2024-05-01,139.64,5.0,3.4,9.6,Food and Non-Alcoholic Beverages,32.9094,2.0,6.2
+2024-05-01,139.64,5.0,3.4,9.6,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,4.1
+2024-05-01,139.64,5.0,3.4,9.6,Health,2.9116,0.1,2.6
+2024-05-01,139.64,5.0,3.4,9.6,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,1.2,4.4
+2024-05-01,139.64,5.0,3.4,9.6,Information and Communication,7.784,0.1,1.3
+2024-05-01,139.64,5.0,3.4,9.6,Insurance and Financial Services,2.2423,0.1,1.0
+2024-05-01,139.64,5.0,3.4,9.6,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,5.2
+2024-05-01,139.64,5.0,3.4,9.6,"Recreation, Sport and Culture",1.7219,0.3,4.8
+2024-05-01,139.64,5.0,3.4,9.6,Restaurants and Accommodation Services,8.0991,0.4,4.2
+2024-05-01,139.64,5.0,3.4,9.6,Transport,9.6468,0.2,8.1
+2024-06-01,140.23,4.6,2.8,10.0,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.5,7.7
+2024-06-01,140.23,4.6,2.8,10.0,Clothing and Footwear,2.9914,0.2,3.8
+2024-06-01,140.23,4.6,2.8,10.0,Education Services,5.562,0.0,2.2
+2024-06-01,140.23,4.6,2.8,10.0,Food and Non-Alcoholic Beverages,32.9094,0.7,5.6
+2024-06-01,140.23,4.6,2.8,10.0,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.4,4.1
+2024-06-01,140.23,4.6,2.8,10.0,Health,2.9116,0.2,2.4
+2024-06-01,140.23,4.6,2.8,10.0,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.4,3.1
+2024-06-01,140.23,4.6,2.8,10.0,Information and Communication,7.784,0.1,1.3
+2024-06-01,140.23,4.6,2.8,10.0,Insurance and Financial Services,2.2423,0.0,0.9
+2024-06-01,140.23,4.6,2.8,10.0,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.4,4.8
+2024-06-01,140.23,4.6,2.8,10.0,"Recreation, Sport and Culture",1.7219,0.4,4.9
+2024-06-01,140.23,4.6,2.8,10.0,Restaurants and Accommodation Services,8.0991,0.6,4.4
+2024-06-01,140.23,4.6,2.8,10.0,Transport,9.6468,-0.2,7.7
+2024-07-01,139.94,4.3,2.2,11.0,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.4,6.9
+2024-07-01,139.94,4.3,2.2,11.0,Clothing and Footwear,2.9914,0.1,3.6
+2024-07-01,139.94,4.3,2.2,11.0,Education Services,5.562,0.0,2.2
+2024-07-01,139.94,4.3,2.2,11.0,Food and Non-Alcoholic Beverages,32.9094,-0.5,5.6
+2024-07-01,139.94,4.3,2.2,11.0,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.4,4.4
+2024-07-01,139.94,4.3,2.2,11.0,Health,2.9116,0.3,2.7
+2024-07-01,139.94,4.3,2.2,11.0,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.4,3.9
+2024-07-01,139.94,4.3,2.2,11.0,Information and Communication,7.784,0.0,1.2
+2024-07-01,139.94,4.3,2.2,11.0,Insurance and Financial Services,2.2423,0.1,0.9
+2024-07-01,139.94,4.3,2.2,11.0,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.4,4.8
+2024-07-01,139.94,4.3,2.2,11.0,"Recreation, Sport and Culture",1.7219,0.3,4.5
+2024-07-01,139.94,4.3,2.2,11.0,Restaurants and Accommodation Services,8.0991,0.2,4.3
+2024-07-01,139.94,4.3,2.2,11.0,Transport,9.6468,-0.1,4.0
+2024-08-01,139.87,4.4,2.2,10.4,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,1.9,8.2
+2024-08-01,139.87,4.4,2.2,10.4,Clothing and Footwear,2.9914,0.1,3.5
+2024-08-01,139.87,4.4,2.2,10.4,Education Services,5.562,0.7,2.8
+2024-08-01,139.87,4.4,2.2,10.4,Food and Non-Alcoholic Beverages,32.9094,-0.7,5.3
+2024-08-01,139.87,4.4,2.2,10.4,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,4.2
+2024-08-01,139.87,4.4,2.2,10.4,Health,2.9116,0.3,2.8
+2024-08-01,139.87,4.4,2.2,10.4,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.3,4.2
+2024-08-01,139.87,4.4,2.2,10.4,Information and Communication,7.784,0.3,1.6
+2024-08-01,139.87,4.4,2.2,10.4,Insurance and Financial Services,2.2423,0.1,0.7
+2024-08-01,139.87,4.4,2.2,10.4,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,4.6
+2024-08-01,139.87,4.4,2.2,10.4,"Recreation, Sport and Culture",1.7219,0.1,4.5
+2024-08-01,139.87,4.4,2.2,10.4,Restaurants and Accommodation Services,8.0991,0.4,4.5
+2024-08-01,139.87,4.4,2.2,10.4,Transport,9.6468,0.3,3.9
+2024-09-01,140.13,3.6,2.0,8.0,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,7.7
+2024-09-01,140.13,3.6,2.0,8.0,Clothing and Footwear,2.9914,0.1,3.3
+2024-09-01,140.13,3.6,2.0,8.0,Education Services,5.562,0.2,2.9
+2024-09-01,140.13,3.6,2.0,8.0,Food and Non-Alcoholic Beverages,32.9094,0.4,5.1
+2024-09-01,140.13,3.6,2.0,8.0,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,3.8
+2024-09-01,140.13,3.6,2.0,8.0,Health,2.9116,0.3,2.7
+2024-09-01,140.13,3.6,2.0,8.0,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.1,2.6
+2024-09-01,140.13,3.6,2.0,8.0,Information and Communication,7.784,0.0,1.4
+2024-09-01,140.13,3.6,2.0,8.0,Insurance and Financial Services,2.2423,0.1,0.7
+2024-09-01,140.13,3.6,2.0,8.0,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,4.5
+2024-09-01,140.13,3.6,2.0,8.0,"Recreation, Sport and Culture",1.7219,0.1,4.3
+2024-09-01,140.13,3.6,2.0,8.0,Restaurants and Accommodation Services,8.0991,0.3,4.4
+2024-09-01,140.13,3.6,2.0,8.0,Transport,9.6468,0.1,0.5
+2024-10-01,140.44,2.7,1.8,5.4,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.3,7.2
+2024-10-01,140.44,2.7,1.8,5.4,Clothing and Footwear,2.9914,0.5,3.4
+2024-10-01,140.44,2.7,1.8,5.4,Education Services,5.562,0.0,2.9
+2024-10-01,140.44,2.7,1.8,5.4,Food and Non-Alcoholic Beverages,32.9094,0.5,4.3
+2024-10-01,140.44,2.7,1.8,5.4,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.4,4.1
+2024-10-01,140.44,2.7,1.8,5.4,Health,2.9116,0.3,3.0
+2024-10-01,140.44,2.7,1.8,5.4,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.3,0.4
+2024-10-01,140.44,2.7,1.8,5.4,Information and Communication,7.784,0.1,1.4
+2024-10-01,140.44,2.7,1.8,5.4,Insurance and Financial Services,2.2423,0.0,0.7
+2024-10-01,140.44,2.7,1.8,5.4,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.4,4.4
+2024-10-01,140.44,2.7,1.8,5.4,"Recreation, Sport and Culture",1.7219,0.3,4.3
+2024-10-01,140.44,2.7,1.8,5.4,Restaurants and Accommodation Services,8.0991,0.6,4.6
+2024-10-01,140.44,2.7,1.8,5.4,Transport,9.6468,-0.3,-1.3
+2024-11-01,140.81,2.8,2.1,4.9,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.5,7.6
+2024-11-01,140.81,2.8,2.1,4.9,Clothing and Footwear,2.9914,0.1,2.9
+2024-11-01,140.81,2.8,2.1,4.9,Education Services,5.562,0.0,2.9
+2024-11-01,140.81,2.8,2.1,4.9,Food and Non-Alcoholic Beverages,32.9094,0.6,4.5
+2024-11-01,140.81,2.8,2.1,4.9,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,3.9
+2024-11-01,140.81,2.8,2.1,4.9,Health,2.9116,0.1,2.9
+2024-11-01,140.81,2.8,2.1,4.9,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.1,0.1
+2024-11-01,140.81,2.8,2.1,4.9,Information and Communication,7.784,0.0,1.4
+2024-11-01,140.81,2.8,2.1,4.9,Insurance and Financial Services,2.2423,0.6,1.3
+2024-11-01,140.81,2.8,2.1,4.9,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,4.1
+2024-11-01,140.81,2.8,2.1,4.9,"Recreation, Sport and Culture",1.7219,0.1,4.3
+2024-11-01,140.81,2.8,2.1,4.9,Restaurants and Accommodation Services,8.0991,0.1,4.5
+2024-11-01,140.81,2.8,2.1,4.9,Transport,9.6468,0.2,-1.1
+2024-12-01,141.66,3.0,2.2,5.2,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.1,7.2
+2024-12-01,141.66,3.0,2.2,5.2,Clothing and Footwear,2.9914,2.0,4.5
+2024-12-01,141.66,3.0,2.2,5.2,Education Services,5.562,0.0,2.8
+2024-12-01,141.66,3.0,2.2,5.2,Food and Non-Alcoholic Beverages,32.9094,0.7,4.8
+2024-12-01,141.66,3.0,2.2,5.2,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,3.8
+2024-12-01,141.66,3.0,2.2,5.2,Health,2.9116,0.5,3.0
+2024-12-01,141.66,3.0,2.2,5.2,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.2,-0.2
+2024-12-01,141.66,3.0,2.2,5.2,Information and Communication,7.784,0.1,1.2
+2024-12-01,141.66,3.0,2.2,5.2,Insurance and Financial Services,2.2423,0.0,1.2
+2024-12-01,141.66,3.0,2.2,5.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.4,4.1
+2024-12-01,141.66,3.0,2.2,5.2,"Recreation, Sport and Culture",1.7219,0.2,3.9
+2024-12-01,141.66,3.0,2.2,5.2,Restaurants and Accommodation Services,8.0991,0.4,4.5
+2024-12-01,141.66,3.0,2.2,5.2,Transport,9.6468,1.8,0.1
+2025-01-01,142.68,3.3,2.0,7.1,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.3,6.7
+2025-01-01,142.68,3.3,2.0,7.1,Clothing and Footwear,2.9914,0.0,3.9
+2025-01-01,142.68,3.3,2.0,7.1,Education Services,5.562,1.6,2.6
+2025-01-01,142.68,3.3,2.0,7.1,Food and Non-Alcoholic Beverages,32.9094,1.6,6.1
+2025-01-01,142.68,3.3,2.0,7.1,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.3,3.3
+2025-01-01,142.68,3.3,2.0,7.1,Health,2.9116,0.4,3.3
+2025-01-01,142.68,3.3,2.0,7.1,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.1,-1.6
+2025-01-01,142.68,3.3,2.0,7.1,Information and Communication,7.784,0.1,1.1
+2025-01-01,142.68,3.3,2.0,7.1,Insurance and Financial Services,2.2423,0.0,0.9
+2025-01-01,142.68,3.3,2.0,7.1,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,4.1
+2025-01-01,142.68,3.3,2.0,7.1,"Recreation, Sport and Culture",1.7219,1.0,3.5
+2025-01-01,142.68,3.3,2.0,7.1,Restaurants and Accommodation Services,8.0991,0.1,4.0
+2025-01-01,142.68,3.3,2.0,7.1,Transport,9.6468,-0.4,0.7
+2025-02-01,143.12,3.5,1.9,7.7,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.6,6.2
+2025-02-01,143.12,3.5,1.9,7.7,Clothing and Footwear,2.9914,0.1,3.9
+2025-02-01,143.12,3.5,1.9,7.7,Education Services,5.562,0.1,2.7
+2025-02-01,143.12,3.5,1.9,7.7,Food and Non-Alcoholic Beverages,32.9094,0.6,6.4
+2025-02-01,143.12,3.5,1.9,7.7,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.3,3.3
+2025-02-01,143.12,3.5,1.9,7.7,Health,2.9116,0.5,3.5
+2025-02-01,143.12,3.5,1.9,7.7,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.1,-0.8
+2025-02-01,143.12,3.5,1.9,7.7,Information and Communication,7.784,0.1,1.1
+2025-02-01,143.12,3.5,1.9,7.7,Insurance and Financial Services,2.2423,0.0,0.9
+2025-02-01,143.12,3.5,1.9,7.7,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,3.7
+2025-02-01,143.12,3.5,1.9,7.7,"Recreation, Sport and Culture",1.7219,0.1,3.3
+2025-02-01,143.12,3.5,1.9,7.7,Restaurants and Accommodation Services,8.0991,0.2,3.9
+2025-02-01,143.12,3.5,1.9,7.7,Transport,9.6468,0.1,0.7
+2025-03-01,143.69,3.6,2.2,7.4,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.3,6.1
+2025-03-01,143.69,3.6,2.2,7.4,Clothing and Footwear,2.9914,0.3,4.0
+2025-03-01,143.69,3.6,2.2,7.4,Education Services,5.562,0.0,2.7
+2025-03-01,143.69,3.6,2.2,7.4,Food and Non-Alcoholic Beverages,32.9094,0.7,6.6
+2025-03-01,143.69,3.6,2.2,7.4,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,3.1
+2025-03-01,143.69,3.6,2.2,7.4,Health,2.9116,0.1,3.3
+2025-03-01,143.69,3.6,2.2,7.4,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.2,-0.8
+2025-03-01,143.69,3.6,2.2,7.4,Information and Communication,7.784,0.0,1.1
+2025-03-01,143.69,3.6,2.2,7.4,Insurance and Financial Services,2.2423,0.0,0.9
+2025-03-01,143.69,3.6,2.2,7.4,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,3.5
+2025-03-01,143.69,3.6,2.2,7.4,"Recreation, Sport and Culture",1.7219,0.1,3.3
+2025-03-01,143.69,3.6,2.2,7.4,Restaurants and Accommodation Services,8.0991,0.4,4.0
+2025-03-01,143.69,3.6,2.2,7.4,Transport,9.6468,0.2,1.5
+2025-04-01,144.09,4.1,2.5,8.4,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,6.0
+2025-04-01,144.09,4.1,2.5,8.4,Clothing and Footwear,2.9914,0.0,3.8
+2025-04-01,144.09,4.1,2.5,8.4,Education Services,5.562,0.0,2.7
+2025-04-01,144.09,4.1,2.5,8.4,Food and Non-Alcoholic Beverages,32.9094,0.4,7.1
+2025-04-01,144.09,4.1,2.5,8.4,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,3.1
+2025-04-01,144.09,4.1,2.5,8.4,Health,2.9116,0.2,3.4
+2025-04-01,144.09,4.1,2.5,8.4,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.3,0.8
+2025-04-01,144.09,4.1,2.5,8.4,Information and Communication,7.784,0.0,1.0
+2025-04-01,144.09,4.1,2.5,8.4,Insurance and Financial Services,2.2423,0.0,0.9
+2025-04-01,144.09,4.1,2.5,8.4,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,3.5
+2025-04-01,144.09,4.1,2.5,8.4,"Recreation, Sport and Culture",1.7219,0.3,3.3
+2025-04-01,144.09,4.1,2.5,8.4,Restaurants and Accommodation Services,8.0991,0.3,4.1
+2025-04-01,144.09,4.1,2.5,8.4,Transport,9.6468,0.5,2.3
+2025-05-01,144.88,3.8,2.8,6.0,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.1,5.5
+2025-05-01,144.88,3.8,2.8,6.0,Clothing and Footwear,2.9914,0.1,3.6
+2025-05-01,144.88,3.8,2.8,6.0,Education Services,5.562,0.2,2.9
+2025-05-01,144.88,3.8,2.8,6.0,Food and Non-Alcoholic Beverages,32.9094,1.2,6.3
+2025-05-01,144.88,3.8,2.8,6.0,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,3.0
+2025-05-01,144.88,3.8,2.8,6.0,Health,2.9116,0.2,3.6
+2025-05-01,144.88,3.8,2.8,6.0,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.0,0.8
+2025-05-01,144.88,3.8,2.8,6.0,Information and Communication,7.784,0.1,0.9
+2025-05-01,144.88,3.8,2.8,6.0,Insurance and Financial Services,2.2423,0.0,0.9
+2025-05-01,144.88,3.8,2.8,6.0,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.4,3.7
+2025-05-01,144.88,3.8,2.8,6.0,"Recreation, Sport and Culture",1.7219,0.3,3.4
+2025-05-01,144.88,3.8,2.8,6.0,Restaurants and Accommodation Services,8.0991,0.1,3.8
+2025-05-01,144.88,3.8,2.8,6.0,Transport,9.6468,0.2,2.3
+2025-06-01,145.58,3.8,3.0,6.2,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,5.2
+2025-06-01,145.58,3.8,3.0,6.2,Clothing and Footwear,2.9914,0.1,3.5
+2025-06-01,145.58,3.8,3.0,6.2,Education Services,5.562,0.0,2.9
+2025-06-01,145.58,3.8,3.0,6.2,Food and Non-Alcoholic Beverages,32.9094,1.0,6.6
+2025-06-01,145.58,3.8,3.0,6.2,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.1,2.8
+2025-06-01,145.58,3.8,3.0,6.2,Health,2.9116,0.3,3.7
+2025-06-01,145.58,3.8,3.0,6.2,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.1,0.2
+2025-06-01,145.58,3.8,3.0,6.2,Information and Communication,7.784,0.0,0.8
+2025-06-01,145.58,3.8,3.0,6.2,Insurance and Financial Services,2.2423,0.0,0.9
+2025-06-01,145.58,3.8,3.0,6.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.1,3.3
+2025-06-01,145.58,3.8,3.0,6.2,"Recreation, Sport and Culture",1.7219,0.2,3.1
+2025-06-01,145.58,3.8,3.0,6.2,Restaurants and Accommodation Services,8.0991,0.1,3.3
+2025-06-01,145.58,3.8,3.0,6.2,Transport,9.6468,0.7,3.2
+2025-07-01,145.74,4.1,3.1,7.2,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.3,5.1
+2025-07-01,145.74,4.1,3.1,7.2,Clothing and Footwear,2.9914,0.0,3.4
+2025-07-01,145.74,4.1,3.1,7.2,Education Services,5.562,0.0,2.9
+2025-07-01,145.74,4.1,3.1,7.2,Food and Non-Alcoholic Beverages,32.9094,-0.3,6.8
+2025-07-01,145.74,4.1,3.1,7.2,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,2.5
+2025-07-01,145.74,4.1,3.1,7.2,Health,2.9116,0.1,3.5
+2025-07-01,145.74,4.1,3.1,7.2,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.7,1.3
+2025-07-01,145.74,4.1,3.1,7.2,Information and Communication,7.784,0.0,0.8
+2025-07-01,145.74,4.1,3.1,7.2,Insurance and Financial Services,2.2423,0.0,0.9
+2025-07-01,145.74,4.1,3.1,7.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.5,3.4
+2025-07-01,145.74,4.1,3.1,7.2,"Recreation, Sport and Culture",1.7219,0.1,2.9
+2025-07-01,145.74,4.1,3.1,7.2,Restaurants and Accommodation Services,8.0991,0.1,3.2
+2025-07-01,145.74,4.1,3.1,7.2,Transport,9.6468,0.8,4.1
+2025-08-01,146.21,4.5,3.0,9.2,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,3.4
+2025-08-01,146.21,4.5,3.0,9.2,Clothing and Footwear,2.9914,0.1,3.3
+2025-08-01,146.21,4.5,3.0,9.2,Education Services,5.562,0.2,2.4
+2025-08-01,146.21,4.5,3.0,9.2,Food and Non-Alcoholic Beverages,32.9094,0.6,8.3
+2025-08-01,146.21,4.5,3.0,9.2,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,-0.2,2.1
+2025-08-01,146.21,4.5,3.0,9.2,Health,2.9116,0.1,3.3
+2025-08-01,146.21,4.5,3.0,9.2,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.2,0.8
+2025-08-01,146.21,4.5,3.0,9.2,Information and Communication,7.784,0.1,0.7
+2025-08-01,146.21,4.5,3.0,9.2,Insurance and Financial Services,2.2423,0.1,0.9
+2025-08-01,146.21,4.5,3.0,9.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,3.3
+2025-08-01,146.21,4.5,3.0,9.2,"Recreation, Sport and Culture",1.7219,0.0,2.8
+2025-08-01,146.21,4.5,3.0,9.2,Restaurants and Accommodation Services,8.0991,0.1,2.8
+2025-08-01,146.21,4.5,3.0,9.2,Transport,9.6468,0.5,4.4
+2025-09-01,146.56,4.6,2.9,9.6,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,3.3
+2025-09-01,146.56,4.6,2.9,9.6,Clothing and Footwear,2.9914,0.1,3.3
+2025-09-01,146.56,4.6,2.9,9.6,Education Services,5.562,0.0,2.2
+2025-09-01,146.56,4.6,2.9,9.6,Food and Non-Alcoholic Beverages,32.9094,0.5,8.4
+2025-09-01,146.56,4.6,2.9,9.6,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.1,2.0
+2025-09-01,146.56,4.6,2.9,9.6,Health,2.9116,0.1,3.0
+2025-09-01,146.56,4.6,2.9,9.6,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.5,1.4
+2025-09-01,146.56,4.6,2.9,9.6,Information and Communication,7.784,0.1,0.8
+2025-09-01,146.56,4.6,2.9,9.6,Insurance and Financial Services,2.2423,0.1,0.8
+2025-09-01,146.56,4.6,2.9,9.6,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.1,3.1
+2025-09-01,146.56,4.6,2.9,9.6,"Recreation, Sport and Culture",1.7219,0.1,2.8
+2025-09-01,146.56,4.6,2.9,9.6,Restaurants and Accommodation Services,8.0991,0.0,2.6
+2025-09-01,146.56,4.6,2.9,9.6,Transport,9.6468,-0.3,4.0
+2025-10-01,146.84,4.6,2.7,9.9,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.1,3.1
+2025-10-01,146.84,4.6,2.7,9.9,Clothing and Footwear,2.9914,0.1,2.9
+2025-10-01,146.84,4.6,2.7,9.9,Education Services,5.562,0.0,2.2
+2025-10-01,146.84,4.6,2.7,9.9,Food and Non-Alcoholic Beverages,32.9094,0.2,8.0
+2025-10-01,146.84,4.6,2.7,9.9,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.0,1.7
+2025-10-01,146.84,4.6,2.7,9.9,Health,2.9116,0.1,2.8
+2025-10-01,146.84,4.6,2.7,9.9,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.3,1.9
+2025-10-01,146.84,4.6,2.7,9.9,Information and Communication,7.784,0.0,0.7
+2025-10-01,146.84,4.6,2.7,9.9,Insurance and Financial Services,2.2423,0.0,0.8
+2025-10-01,146.84,4.6,2.7,9.9,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.1,2.7
+2025-10-01,146.84,4.6,2.7,9.9,"Recreation, Sport and Culture",1.7219,0.2,2.7
+2025-10-01,146.84,4.6,2.7,9.9,Restaurants and Accommodation Services,8.0991,0.4,2.3
+2025-10-01,146.84,4.6,2.7,9.9,Transport,9.6468,0.4,4.8
+2025-11-01,147.08,4.5,2.3,10.1,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.1,2.7
+2025-11-01,147.08,4.5,2.3,10.1,Clothing and Footwear,2.9914,0.2,3.0
+2025-11-01,147.08,4.5,2.3,10.1,Education Services,5.562,0.0,2.2
+2025-11-01,147.08,4.5,2.3,10.1,Food and Non-Alcoholic Beverages,32.9094,0.3,7.7
+2025-11-01,147.08,4.5,2.3,10.1,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,1.6
+2025-11-01,147.08,4.5,2.3,10.1,Health,2.9116,0.2,2.9
+2025-11-01,147.08,4.5,2.3,10.1,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.1,1.9
+2025-11-01,147.08,4.5,2.3,10.1,Information and Communication,7.784,0.0,0.7
+2025-11-01,147.08,4.5,2.3,10.1,Insurance and Financial Services,2.2423,0.0,0.2
+2025-11-01,147.08,4.5,2.3,10.1,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.1,2.7
+2025-11-01,147.08,4.5,2.3,10.1,"Recreation, Sport and Culture",1.7219,0.2,2.7
+2025-11-01,147.08,4.5,2.3,10.1,Restaurants and Accommodation Services,8.0991,0.1,2.3
+2025-11-01,147.08,4.5,2.3,10.1,Transport,9.6468,0.4,5.1
+2025-12-01,148.02,4.5,2.0,11.2,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,2.8
+2025-12-01,148.02,4.5,2.0,11.2,Clothing and Footwear,2.9914,0.5,1.5
+2025-12-01,148.02,4.5,2.0,11.2,Education Services,5.562,0.0,2.2
+2025-12-01,148.02,4.5,2.0,11.2,Food and Non-Alcoholic Beverages,32.9094,0.8,7.8
+2025-12-01,148.02,4.5,2.0,11.2,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.1,1.6
+2025-12-01,148.02,4.5,2.0,11.2,Health,2.9116,0.2,2.6
+2025-12-01,148.02,4.5,2.0,11.2,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.1,1.6
+2025-12-01,148.02,4.5,2.0,11.2,Information and Communication,7.784,0.1,0.7
+2025-12-01,148.02,4.5,2.0,11.2,Insurance and Financial Services,2.2423,0.0,0.1
+2025-12-01,148.02,4.5,2.0,11.2,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,2.6
+2025-12-01,148.02,4.5,2.0,11.2,"Recreation, Sport and Culture",1.7219,0.3,2.9
+2025-12-01,148.02,4.5,2.0,11.2,Restaurants and Accommodation Services,8.0991,0.2,2.1
+2025-12-01,148.02,4.5,2.0,11.2,Transport,9.6468,1.9,5.2
+2026-01-01,148.96,4.4,2.2,10.3,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.5,3.0
+2026-01-01,148.96,4.4,2.2,10.3,Clothing and Footwear,2.9914,0.5,2.0
+2026-01-01,148.96,4.4,2.2,10.3,Education Services,5.562,2.1,2.7
+2026-01-01,148.96,4.4,2.2,10.3,Food and Non-Alcoholic Beverages,32.9094,1.1,7.3
+2026-01-01,148.96,4.4,2.2,10.3,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.2,1.5
+2026-01-01,148.96,4.4,2.2,10.3,Health,2.9116,0.6,2.7
+2026-01-01,148.96,4.4,2.2,10.3,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.7,2.2
+2026-01-01,148.96,4.4,2.2,10.3,Information and Communication,7.784,0.0,0.5
+2026-01-01,148.96,4.4,2.2,10.3,Insurance and Financial Services,2.2423,0.5,0.6
+2026-01-01,148.96,4.4,2.2,10.3,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,2.5
+2026-01-01,148.96,4.4,2.2,10.3,"Recreation, Sport and Culture",1.7219,0.6,2.5
+2026-01-01,148.96,4.4,2.2,10.3,Restaurants and Accommodation Services,8.0991,0.4,2.4
+2026-01-01,148.96,4.4,2.2,10.3,Transport,9.6468,-0.7,4.8
+2026-02-01,149.2,4.3,2.1,10.1,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.1,2.5
+2026-02-01,149.2,4.3,2.1,10.1,Clothing and Footwear,2.9914,0.1,2.0
+2026-02-01,149.2,4.3,2.1,10.1,Education Services,5.562,0.4,3.0
+2026-02-01,149.2,4.3,2.1,10.1,Food and Non-Alcoholic Beverages,32.9094,0.6,7.3
+2026-02-01,149.2,4.3,2.1,10.1,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.1,1.4
+2026-02-01,149.2,4.3,2.1,10.1,Health,2.9116,0.3,2.4
+2026-02-01,149.2,4.3,2.1,10.1,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,-0.4,1.8
+2026-02-01,149.2,4.3,2.1,10.1,Information and Communication,7.784,0.0,0.4
+2026-02-01,149.2,4.3,2.1,10.1,Insurance and Financial Services,2.2423,0.1,0.7
+2026-02-01,149.2,4.3,2.1,10.1,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,2.5
+2026-02-01,149.2,4.3,2.1,10.1,"Recreation, Sport and Culture",1.7219,0.2,2.6
+2026-02-01,149.2,4.3,2.1,10.1,Restaurants and Accommodation Services,8.0991,0.5,2.7
+2026-02-01,149.2,4.3,2.1,10.1,Transport,9.6468,-0.7,4.0
+2026-03-01,150.0,4.4,2.1,10.8,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.1,2.3
+2026-03-01,150.0,4.4,2.1,10.8,Clothing and Footwear,2.9914,0.0,1.8
+2026-03-01,150.0,4.4,2.1,10.8,Education Services,5.562,0.3,3.3
+2026-03-01,150.0,4.4,2.1,10.8,Food and Non-Alcoholic Beverages,32.9094,1.1,7.7
+2026-03-01,150.0,4.4,2.1,10.8,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.3,1.5
+2026-03-01,150.0,4.4,2.1,10.8,Health,2.9116,0.4,2.7
+2026-03-01,150.0,4.4,2.1,10.8,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.4,2.0
+2026-03-01,150.0,4.4,2.1,10.8,Information and Communication,7.784,0.1,0.5
+2026-03-01,150.0,4.4,2.1,10.8,Insurance and Financial Services,2.2423,0.0,0.7
+2026-03-01,150.0,4.4,2.1,10.8,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.2,2.5
+2026-03-01,150.0,4.4,2.1,10.8,"Recreation, Sport and Culture",1.7219,0.1,2.6
+2026-03-01,150.0,4.4,2.1,10.8,Restaurants and Accommodation Services,8.0991,0.1,2.4
+2026-03-01,150.0,4.4,2.1,10.8,Transport,9.6468,0.0,3.8
+2026-04-01,152.15,5.6,2.8,13.4,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,2.3
+2026-04-01,152.15,5.6,2.8,13.4,Clothing and Footwear,2.9914,0.1,1.9
+2026-04-01,152.15,5.6,2.8,13.4,Education Services,5.562,0.0,3.2
+2026-04-01,152.15,5.6,2.8,13.4,Food and Non-Alcoholic Beverages,32.9094,1.5,8.8
+2026-04-01,152.15,5.6,2.8,13.4,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.4,1.7
+2026-04-01,152.15,5.6,2.8,13.4,Health,2.9116,0.1,2.6
+2026-04-01,152.15,5.6,2.8,13.4,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.8,2.4
+2026-04-01,152.15,5.6,2.8,13.4,Information and Communication,7.784,0.1,0.6
+2026-04-01,152.15,5.6,2.8,13.4,Insurance and Financial Services,2.2423,0.1,0.8
+2026-04-01,152.15,5.6,2.8,13.4,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,2.7
+2026-04-01,152.15,5.6,2.8,13.4,"Recreation, Sport and Culture",1.7219,0.4,2.7
+2026-04-01,152.15,5.6,2.8,13.4,Restaurants and Accommodation Services,8.0991,0.4,2.5
+2026-04-01,152.15,5.6,2.8,13.4,Transport,9.6468,6.5,10.0
+2026-05-01,154.56,6.7,3.2,16.0,"Alcoholic Beverages, Tobacco and Narcotics",3.3289,0.2,2.5
+2026-05-01,154.56,6.7,3.2,16.0,Clothing and Footwear,2.9914,0.2,2.0
+2026-05-01,154.56,6.7,3.2,16.0,Education Services,5.562,0.0,3.1
+2026-05-01,154.56,6.7,3.2,16.0,Food and Non-Alcoholic Beverages,32.9094,1.8,9.4
+2026-05-01,154.56,6.7,3.2,16.0,"Furnishings, Household Equipment and Routine Household Maintenance",3.7372,0.3,1.9
+2026-05-01,154.56,6.7,3.2,16.0,Health,2.9116,0.2,2.6
+2026-05-01,154.56,6.7,3.2,16.0,"Housing, Water, Electricity, Gas and Other Fuels",14.6124,0.9,3.4
+2026-05-01,154.56,6.7,3.2,16.0,Information and Communication,7.784,0.0,0.6
+2026-05-01,154.56,6.7,3.2,16.0,Insurance and Financial Services,2.2423,0.0,0.8
+2026-05-01,154.56,6.7,3.2,16.0,"Personal Care, Social Protection and Miscellaneous Goods and Services",4.4532,0.3,2.5
+2026-05-01,154.56,6.7,3.2,16.0,"Recreation, Sport and Culture",1.7219,0.1,2.5
+2026-05-01,154.56,6.7,3.2,16.0,Restaurants and Accommodation Services,8.0991,0.2,2.6
+2026-05-01,154.56,6.7,3.2,16.0,Transport,9.6468,6.1,16.5
