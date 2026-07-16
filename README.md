@@ -34,6 +34,15 @@ Index (CPI) Reports, January 2024 – May 2026 (29 months).
 ---
 
 ## Project Structure
+
+```
+kenya-inflation-sme-capstone/
+├── 01_raw_data/          # Source KNBS PDF reports
+├── 02_cleaned_data/      # Cleaned CSV files
+├── 03_sql/               # BigQuery SQL queries
+├── 04_analysis/          # Exported analysis tables
+└── 06_report/            # Final report and documentation
+```
 ---
 
 ## Tools & Process
